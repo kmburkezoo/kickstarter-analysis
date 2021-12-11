@@ -22,14 +22,14 @@ My primary challenge in creating this output was in properly concatenating multi
 
 ### Overall
 The majority of theatre kickstarters are successful, including 65% of plays. 
-![theatre_campagin_outcomes](https://github.com/kmburkezoo/kickstarter-analysis/blob/main/Resources/theater_campaign_outcomes.png)
+![theatre_campaign_outcomes](https://github.com/kmburkezoo/kickstarter-analysis/blob/main/Resources/theater_campaign_outcomes.png)
 
 ## Outcomes Based on Launch Date
 May had the most successfully launched campaigns of any month, followed by June, July, August, and February. Early summer therefore appears to be the best time to launch a campaign. The worst time to launch a campaign for a play is December; less than half the campaigns launched in December in this dataset were successful.
 ![outcomes_by_launch_date](https://github.com/kmburkezoo/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
-However, more failed campaigns were also launched over the summer than during other months, so better conclusions can be drawn from an anlysis of the percentage of succesful campaigns than a count.
-
---I need another chart here
+However, more failed campaigns were also launched over the summer than during other months, so better conclusions can be drawn from an anlysis of the percentage of succesful campaigns than a count:
+![theatre campaign outcome percentage](https://github.com/kmburkezoo/kickstarter-analysis/blob/main/Resources/Theater_Outcome_Percentage_vs_Launch.png)
+From this chart, we can more easily see that campaigns launched between April and July have the highest success rates, but the difference in success rates from month to month is not as great as it appears when looking at the count of campaigns.
 
 ## Outcomes Based on Goals
 76% of plays with a goal of less than $1000 are successful, decreasing to 50% of plays with a goal between $15000 and $19999. A campaign with a goal under $20,000 appears most likely to succeed.
