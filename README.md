@@ -48,6 +48,6 @@ The dataset also does not include some potentially meaningful values, such as:
 
 ## Opportunities for Additional Analysis 
 This dataset contains several additional factors that have not yet been taken into account, including:
-- Campaign length
-- The impact of a campaign being a "Staff Pick" or "Spotlight"
+- Campaign length, likely best analyzed using a line chart
+- Bar or pie charts to show the distribution of outcomes for campaigns marked as a "Staff Pick" or "Spotlight"
 - The average amount pledged by a campaign's backers, which could shed light on how support from a handful of wealthy backers can make or break a campaign 
