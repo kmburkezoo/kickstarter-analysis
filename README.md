@@ -33,7 +33,7 @@ From this chart, we can more easily see that campaigns launched between April an
 
 ## Outcomes Based on Goals
 76% of plays with a goal of less than $1000 are successful, decreasing to 50% of plays with a goal between $15000 and $19999. A campaign with a goal under $20,000 appears most likely to succeed.
-![outcomes_vs_goals](https://github.com/kmburkezoo/kickstarter-analysis/blob/main/Resources/play_outcomes_vs_goals.png)
+![outcomes_vs_goals](https://github.com/kmburkezoo/kickstarter-analysis/blob/main/Resources/outcomes_vs_goals.png)
 
 While there are several goal ranges aove $20,000 in which more than half the campaigns were successful, there were far fewer campaigns in these ranges--a total of 62 campaigns had goals over $20,000, compared to 72 in the 10,000-14,999 range. Additional statistics should therefore be considered when analyzing these upper ranges, as they will be more heavily influenced by the success of a handful of campaigns.
 
